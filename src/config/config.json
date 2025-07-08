@@ -1,0 +1,31 @@
+{
+  "site": {
+    "title": "Nitin's Blog – AI, Web Dev, and more",
+    "base_url": "http://www.nitinguides.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Bookworm Light"
+  },
+  "settings": {
+    "pagination": 5,
+    "summary_length": 160
+  },
+  "metadata": {
+    "meta_author": "Nitin Sharma",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Real-world SEO strategies, AI tools, and web dev insights to grow your online presence."
+  },
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+  },
+  "contactinfo": {
+    "address": "Mumbai <br/> Maharashtra, IN 421302",
+    "email": "nitfab0@gmail.com",
+    "phone": "+91 9370 56 1234"
+  }
+}
