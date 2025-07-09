@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nitinguides.com/sitemap.xml
+Sitemap: https://www.nitinguides.com/sitemap.xml
