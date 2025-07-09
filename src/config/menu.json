@@ -13,7 +13,7 @@
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "More",
       "url": "",
       "hasChildren": true,
       "children": [
@@ -30,10 +30,6 @@
           "url": "/tags"
         },
         {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
           "name": "Privacy Policy",
           "url": "/privacy-policy"
         }
@@ -48,10 +44,6 @@
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     },
     {
       "name": "Privacy Policy",
