@@ -19,7 +19,7 @@ async function getHighlighter() {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://nitinguides.com",
+  site: "https://www.nitinguides.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   vite: { plugins: [tailwindcss()] },
