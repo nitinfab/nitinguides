@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Nitin's Blog – AI, Web Dev, and more",
-    "base_url": "http://www.nitinguides.com",
+    "base_url": "http://nitinguides.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
