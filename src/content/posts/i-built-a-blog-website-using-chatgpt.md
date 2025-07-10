@@ -30,9 +30,7 @@ But I want to act as a noob and ask ChatGPT about the easiest way possible.
 
 And I've given a specific prompt like this:
 
-> I'm a web developer, and I want to create a blog website with the goal of ranking on Google. I've tried Medium and Substack, but due to their policies, I don't want to continue using them.
-
-Can you suggest some other options - like cloning a specific GitHub repository or using a platform - that can help my articles rank easily on Google?
+> I'm a web developer, and I want to create a blog website with the goal of ranking on Google. I've tried Medium and Substack, but due to their policies, I don't want to continue using them. Can you suggest some other options - like cloning a specific GitHub repository or using a platform - that can help my articles rank easily on Google?
 
 And here are the options it came up with:
 ```
