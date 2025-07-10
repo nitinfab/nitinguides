@@ -102,7 +102,7 @@ Then I asked ChatGPT whether it knows how to set the DNS records for my website.
 
 And let me tell you, it gave me the right steps I needed to follow.
 
-Thanks to that, I've made my website live, and here's my website link.
+Thanks to that, I've made my website live, and [here's](https://nitinguides.com/) my website link.
 
 ---
 
